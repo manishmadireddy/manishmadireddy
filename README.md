@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Manish Reddy Madi Reddy</h1>
 
 <h3 align="center">
-MSc International Business & Data Analytics Management
+MSc International Business & Data Analytics Management Wrexham University 
 </h3>
 
 <p align="center">
