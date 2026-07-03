@@ -20,11 +20,12 @@ Aspiring Data Analyst • Python Developer • SQL • Power BI • AWS
 
 ## 👨‍💻 About Me
 
-- 🎓 MSc International Business Management with Data Analytics | Wrexham University
-📍 Liverpool, United Kingdom
-📦 Amazon Fulfilment Associate
-💻 Passionate about Data Analytics, Business Intelligence, Python, and Cloud Computing
-🌱 Currently learning AWS, Machine Learning, and Data Engineering
+- 🎓 MSc International Business Management with Data Analytics @ Wrexham University
+- 📍 Liverpool, United Kingdom
+- 📦 Amazon Fulfilment Associate
+- 💻 Passionate about Data Analytics, Business Intelligence, Python, SQL, and Cloud Computing
+- 🌱 Currently learning AWS, Machine Learning, and Data Engineering
+- 🚀 Aspiring Data Analyst | Business Intelligence Analyst | Data Engineer
 
 ---
 
